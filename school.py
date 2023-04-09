@@ -3,8 +3,8 @@ class Student:
         self.name = name
         
 class College_Student(Student):
-    def __init(self,name,degree):
-        super().__init__(self,name)
+    def __init__(self,name,degree):
+        super().__init__(name)
         self.degree = degree
 
 
