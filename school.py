@@ -11,6 +11,6 @@ class College_Student(Student):
 
 
 
-Mr_Whalen = College_Student("Mr Whalen","Master in Computer Sdcience")
+Mr_Whalen = College_Student("Mr Whalen","Master in Computer Science")
 
 print(Mr_Whalen)
