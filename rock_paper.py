@@ -38,7 +38,7 @@ def a(running):
         replay = input("Replay?").capitalize()
         if replay == "Yes":
             a(running)
-        elif replay == "No":
+        else:
             running = False
         
 a(running)        
